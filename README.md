@@ -2,8 +2,11 @@
 This repository contains the source code and scripts used to generate the materials and results presented in:
 
 Traveling waves in a model for cortical spreading depolarization with slow–fast dynamics
+
 David Reyner-Parra; Carles Bonet; Teresa M. Seara; Gemma Huguet
+
 Chaos 33, 083154 (2023).
+
 DOI: https://doi.org/10.1063/5.0160509
 
 # Purpose
