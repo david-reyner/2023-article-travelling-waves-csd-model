@@ -16,9 +16,11 @@ This repository is provided solely as a consultative and archival resource assoc
 Its purpose is to document the computational procedures underlying the results presented in the manuscript and to facilitate inspection of the code used to generate the corresponding figures.
 
 # Reproducibility
-The repository currently contains the scripts and functions used to generate Figures 1 and 2 of the published paper:
-  - Figure 1: generated using neuron_astrocyte_RLee_script.m
-  - Figure 2: generated using red_nan_script.m
+The repository currently contains the scripts and functions used to generate Figures 1 to 4 of the published paper:
+  - Figure 1: generated using script neuron_astrocyte_RLee_script.m
+  - Figure 2: generated using first section of script red_nan_script.m
+  - Figure 3: generated using second section of script red_nan_script.m
+  - Figure 4: generated using script plots_rhs_red_nan.m
 
 # Requirements
 The code was originally developed, tested and executed using:
