@@ -21,6 +21,7 @@ The repository currently contains the scripts and functions used to generate Fig
   - Figure 2: generated using first section of script red_nan_script.m
   - Figure 3: generated using second section of script red_nan_script.m
   - Figure 4: generated using script plots_rhs_red_nan.m
+  - Figure 5: generated using first section of script red_bis_nan_script.m
 
 # Requirements
 The code was originally developed, tested and executed using:
